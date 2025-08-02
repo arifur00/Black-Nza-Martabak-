@@ -71,27 +71,27 @@
 
   <section class="menu">
     <div class="item">
-      <img src="https://via.placeholder.com/200x120?text=Martabak" alt="Martabak">
+      <img src="https://i.imgur.com/AXU1PiP.jpg" alt="Martabak">
       <h3>Sweet Martabak</h3>
       <p>৳120</p>
     </div>
     <div class="item">
-      <img src="https://via.placeholder.com/200x120?text=Burger" alt="Burger">
+      <img src="https://i.imgur.com/rzZ2UQF.jpg" alt="Burger">
       <h3>Beef Burger</h3>
       <p>৳150</p>
     </div>
     <div class="item">
-      <img src="https://via.placeholder.com/200x120?text=Fries" alt="Fries">
+      <img src="https://i.imgur.com/fes7Hox.jpg" alt="Fries">
       <h3>French Fries</h3>
       <p>৳70</p>
     </div>
     <div class="item">
-      <img src="https://via.placeholder.com/200x120?text=Kebab" alt="Kebab">
+      <img src="https://i.imgur.com/MFDG5xH.jpg" alt="Kebab">
       <h3>Chicken Kebab</h3>
       <p>৳90</p>
     </div>
     <div class="item">
-      <img src="https://via.placeholder.com/200x120?text=Wrap" alt="Wrap">
+      <img src="https://i.imgur.com/LDsAlyU.jpg" alt="Wrap">
       <h3>Shawarma Wrap</h3>
       <p>৳130</p>
     </div>
